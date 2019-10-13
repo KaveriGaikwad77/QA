@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[<a href='F:\soft\2019 TestApplication\YandexSearchEnginePO\screenshot\1570975586467.png'> <img src='F:\soft\2019 TestApplication\YandexSearchEnginePO\screenshot\1570975586467.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<br> <a href='F:\soft\2019 TestApplication\YandexSearchEnginePO\screenshot\1570975587494.png'> <img src='F:\soft\2019 TestApplication\YandexSearchEnginePO\screenshot\1570975587837.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Test PASS - When User Search For Particular Topic Relavant Articles Populated Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Search Criteria Provided with Data Provider = Mobile]]>
+    </line>
+    <line>
+      <![CDATA[<br> <a href='F:\soft\2019 TestApplication\YandexSearchEnginePO\screenshot\1570975595223.png'> <img src='F:\soft\2019 TestApplication\YandexSearchEnginePO\screenshot\1570975595518.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Test PASS - When User Search For Particular Topic Autosuggestion Starting From Same Letters Appeared Successfully.]]>
+    </line>
+    <line>
+      <![CDATA[<br> <a href='F:\soft\2019 TestApplication\YandexSearchEnginePO\screenshot\1570975609931.png'> <img src='F:\soft\2019 TestApplication\YandexSearchEnginePO\screenshot\1570975610226.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[Test PASS - When User When User Provide SearchCriteria With Onscreen Keyboard Autosuggestion Starting From Same Letters Appeared Successfully.]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="33112" started-at="2019-10-13T14:06:17Z" finished-at="2019-10-13T14:06:50Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="33112" started-at="2019-10-13T14:06:17Z" finished-at="2019-10-13T14:06:50Z">
+      <class name="testCases.YandexSearchTest">
+        <test-method status="PASS" signature="enviornmentSetUp()[pri:0, instance:testCases.YandexSearchTest@140d5f0]" name="enviornmentSetUp" is-config="true" duration-ms="5912" started-at="2019-10-13T19:36:17Z" finished-at="2019-10-13T19:36:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enviornmentSetUp -->
+        <test-method status="PASS" signature="search_For_Web_Resources__Verify_When_User_Search_For_Particular_Topic_And_Hit_Submit_Search_Relavant_Articles_Populated_As_Search_Result()[pri:1, instance:testCases.YandexSearchTest@140d5f0]" name="search_For_Web_Resources__Verify_When_User_Search_For_Particular_Topic_And_Hit_Submit_Search_Relavant_Articles_Populated_As_Search_Result" duration-ms="4125" started-at="2019-10-13T19:36:23Z" description="Search For Web Resources - Verify_When_User_Search_For_Particular_Topic_Relavant_Articles_Populated_As_Search_Result" finished-at="2019-10-13T19:36:27Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<a href='F:\soft\2019 TestApplication\YandexSearchEnginePO\screenshot\1570975586467.png'> <img src='F:\soft\2019 TestApplication\YandexSearchEnginePO\screenshot\1570975586467.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[<br> <a href='F:\soft\2019 TestApplication\YandexSearchEnginePO\screenshot\1570975587494.png'> <img src='F:\soft\2019 TestApplication\YandexSearchEnginePO\screenshot\1570975587837.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[Test PASS - When User Search For Particular Topic Relavant Articles Populated Successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- search_For_Web_Resources__Verify_When_User_Search_For_Particular_Topic_And_Hit_Submit_Search_Relavant_Articles_Populated_As_Search_Result -->
+        <test-method status="PASS" signature="tearDownSetUp()[pri:0, instance:testCases.YandexSearchTest@140d5f0]" name="tearDownSetUp" is-config="true" duration-ms="630" started-at="2019-10-13T19:36:27Z" finished-at="2019-10-13T19:36:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownSetUp -->
+        <test-method status="PASS" signature="enviornmentSetUp()[pri:0, instance:testCases.YandexSearchTest@140d5f0]" name="enviornmentSetUp" is-config="true" duration-ms="5724" started-at="2019-10-13T19:36:28Z" finished-at="2019-10-13T19:36:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enviornmentSetUp -->
+        <test-method status="PASS" signature="help_With_Input__Verify_When_User_Search_For_Particular_Topic_Autosuggestion_Starting_From_Same_Letters_Starts_Appearing(java.lang.String)[pri:2, instance:testCases.YandexSearchTest@140d5f0]" name="help_With_Input__Verify_When_User_Search_For_Particular_Topic_Autosuggestion_Starting_From_Same_Letters_Starts_Appearing" duration-ms="1320" started-at="2019-10-13T19:36:34Z" description="Help With Input - Verify_When_User_Search_For_Particular_Topic_Autosuggestion_Starting_From_Same_Letters_Starts_Appearing" data-provider="searchProvider" finished-at="2019-10-13T19:36:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Search Criteria Provided with Data Provider = Mobile]]>
+            </line>
+            <line>
+              <![CDATA[<br> <a href='F:\soft\2019 TestApplication\YandexSearchEnginePO\screenshot\1570975595223.png'> <img src='F:\soft\2019 TestApplication\YandexSearchEnginePO\screenshot\1570975595518.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[Test PASS - When User Search For Particular Topic Autosuggestion Starting From Same Letters Appeared Successfully.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- help_With_Input__Verify_When_User_Search_For_Particular_Topic_Autosuggestion_Starting_From_Same_Letters_Starts_Appearing -->
+        <test-method status="PASS" signature="tearDownSetUp()[pri:0, instance:testCases.YandexSearchTest@140d5f0]" name="tearDownSetUp" is-config="true" duration-ms="2624" started-at="2019-10-13T19:36:35Z" finished-at="2019-10-13T19:36:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownSetUp -->
+        <test-method status="PASS" signature="enviornmentSetUp()[pri:0, instance:testCases.YandexSearchTest@140d5f0]" name="enviornmentSetUp" is-config="true" duration-ms="6120" started-at="2019-10-13T19:36:38Z" finished-at="2019-10-13T19:36:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enviornmentSetUp -->
+        <test-method status="PASS" signature="help_With_Input__Verify_User_Is_Able_To_Provide_SearchCriteria_with_Onscreen_Keyboard_And_Relvant_SearchResult_Appear()[pri:3, instance:testCases.YandexSearchTest@140d5f0]" name="help_With_Input__Verify_User_Is_Able_To_Provide_SearchCriteria_with_Onscreen_Keyboard_And_Relvant_SearchResult_Appear" duration-ms="5963" started-at="2019-10-13T19:36:44Z" description="Help With Input - Verify_User_Is_Able_To_Provide_SearchCriteria_with_Onscreen_Keyboard_And_Relvant_SearchResult_Appear" finished-at="2019-10-13T19:36:50Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br> <a href='F:\soft\2019 TestApplication\YandexSearchEnginePO\screenshot\1570975609931.png'> <img src='F:\soft\2019 TestApplication\YandexSearchEnginePO\screenshot\1570975610226.png' height='100' width='100'/> </a>]]>
+            </line>
+            <line>
+              <![CDATA[Test PASS - When User When User Provide SearchCriteria With Onscreen Keyboard Autosuggestion Starting From Same Letters Appeared Successfully.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- help_With_Input__Verify_User_Is_Able_To_Provide_SearchCriteria_with_Onscreen_Keyboard_And_Relvant_SearchResult_Appear -->
+        <test-method status="PASS" signature="tearDownSetUp()[pri:0, instance:testCases.YandexSearchTest@140d5f0]" name="tearDownSetUp" is-config="true" duration-ms="674" started-at="2019-10-13T19:36:50Z" finished-at="2019-10-13T19:36:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownSetUp -->
+      </class> <!-- testCases.YandexSearchTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
